@@ -1,0 +1,11 @@
+Job Title: Senior Data Scientist
+
+Skills Required:
+- Python, SQL, Machine Learning, Deep Learning (TensorFlow/PyTorch)
+- Excellent communication and presentation skills.
+
+Experience:
+- 5+ years of experience in data science, specifically in predictive modeling and NLP.
+
+Education:
+- Master's or Ph.D. in Computer Science, Statistics, or related field.

@@ -1,0 +1,9 @@
+# Eve (Strong Match)
+Eve is a Principal Software Engineer with 12 years of experience.
+Skills: Python, AWS, Distributed Systems, LangChain, AI/ML, PyTorch, Docker, Kubernetes.
+Education: MSc in Artificial Intelligence from Stanford University.
+Projects: 
+- Architected a real-time data pipeline processing 1M events/sec.
+- Contributed to several major open-source AI frameworks.
+Eve is an industry leader and perfectly matches the senior technical requirements.
+Score should be near 10/10.

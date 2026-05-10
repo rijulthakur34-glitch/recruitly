@@ -1,0 +1,17 @@
+Name: Alice Smith
+
+Education:
+- Ph.D. in Computer Science, Stanford University (2018)
+
+Experience:
+- Senior Data Scientist at Google (2019 - Present): Led a team of 5 to build NLP models using PyTorch and Python, improving search relevance by 15%.
+- Data Analyst at Facebook (2018 - 2019): Used SQL to analyze user behavior.
+
+Skills:
+Python, SQL, PyTorch, TensorFlow, NLP, Machine Learning.
+
+Projects:
+- Built an open-source predictive text generator with 500+ GitHub stars.
+
+Communication:
+Presented findings to executive board quarterly. Highly articulate.

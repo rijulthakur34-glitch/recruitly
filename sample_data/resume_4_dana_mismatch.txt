@@ -1,0 +1,7 @@
+# Dana (Mismatch)
+Dana is a Senior Sales Manager with 10 years of experience in retail.
+Skills: Sales Leadership, CRM, Public Speaking, Negotiation.
+Education: MBA in Marketing.
+Projects: Led a sales team to 20% growth in Q4.
+Dana is a great professional but has zero coding or technical software development skills.
+Score should be very low.

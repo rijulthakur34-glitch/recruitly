@@ -1,0 +1,7 @@
+# Charlie (Partial Match)
+Charlie is a Junior Software Developer with 1 year of experience.
+Skills: Python, Basic JavaScript, Git.
+Education: BSc in Computer Science from Local College.
+Projects: Built a simple calculator and a personal blog.
+Charlie has basic understanding of coding but lacks the advanced experience required for a Senior position.
+Score should be average.
