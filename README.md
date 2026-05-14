@@ -1,6 +1,6 @@
 # Recruitly
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-hr-shortlisting-agent-f7kuzoosthhxuz7ggpvxay.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recruitly-mrtgq5dx9926hnrrdx3tse.streamlit.app)
 
 This project is an advanced AI-powered HR shortlisting agent that evaluates candidate resumes against a Job Description using high-performance LLMs. It features **Agentic Comparative Analysis**, **Skill Gap Identification**, **Tailored Interview Question Generation**, and a premium "Glassmorphism" dashboard.
 
