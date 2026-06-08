@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 from dotenv import load_dotenv
 
-from core.ingest import parse_jd, parse_resume
+from core.ingest import parse_jd, parse_resume 
 from core.scoring import extract_jd_requirements, score_candidate, WEIGHTS
 from core.reporting import generate_html_report_str
 
